@@ -1,0 +1,37 @@
+* {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
+  font-family: Verdana;
+  font-size: 21px;
+  font-weight: normal;
+  color: gray;
+}
+
+h3 {
+  font-family: Verdana;
+  font-weight: normal;
+  text-align: right;
+  color: gray;
+}
+
+#guide {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+a {
+  font-size: 16px;
+  color: aquamarine;
+  align-items: center;
+  font-family: Verdana;
+}
